@@ -1,0 +1,13 @@
+C:\Users\lohit\source\repos\Week1_Evennumbers\Week1_Evennumbers\obj\Debug\netcoreapp3.1\Week1_Evennumbers.csprojAssemblyReference.cache
+C:\Users\lohit\source\repos\Week1_Evennumbers\Week1_Evennumbers\obj\Debug\netcoreapp3.1\Week1_Evennumbers.csproj.CoreCompileInputs.cache
+C:\Users\lohit\source\repos\Week1_Evennumbers\Week1_Evennumbers\obj\Debug\netcoreapp3.1\Week1_Evennumbers.AssemblyInfoInputs.cache
+C:\Users\lohit\source\repos\Week1_Evennumbers\Week1_Evennumbers\obj\Debug\netcoreapp3.1\Week1_Evennumbers.AssemblyInfo.cs
+C:\Users\lohit\source\repos\Week1_Evennumbers\Week1_Evennumbers\bin\Debug\netcoreapp3.1\Week1_Evennumbers.exe
+C:\Users\lohit\source\repos\Week1_Evennumbers\Week1_Evennumbers\bin\Debug\netcoreapp3.1\Week1_Evennumbers.deps.json
+C:\Users\lohit\source\repos\Week1_Evennumbers\Week1_Evennumbers\bin\Debug\netcoreapp3.1\Week1_Evennumbers.runtimeconfig.json
+C:\Users\lohit\source\repos\Week1_Evennumbers\Week1_Evennumbers\bin\Debug\netcoreapp3.1\Week1_Evennumbers.runtimeconfig.dev.json
+C:\Users\lohit\source\repos\Week1_Evennumbers\Week1_Evennumbers\bin\Debug\netcoreapp3.1\Week1_Evennumbers.dll
+C:\Users\lohit\source\repos\Week1_Evennumbers\Week1_Evennumbers\bin\Debug\netcoreapp3.1\Week1_Evennumbers.pdb
+C:\Users\lohit\source\repos\Week1_Evennumbers\Week1_Evennumbers\obj\Debug\netcoreapp3.1\Week1_Evennumbers.dll
+C:\Users\lohit\source\repos\Week1_Evennumbers\Week1_Evennumbers\obj\Debug\netcoreapp3.1\Week1_Evennumbers.pdb
+C:\Users\lohit\source\repos\Week1_Evennumbers\Week1_Evennumbers\obj\Debug\netcoreapp3.1\Week1_Evennumbers.genruntimeconfig.cache
